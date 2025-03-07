@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -8.4706,
+        "lat": 51.898
+    },
+    "weather": [
+        {
+            "id": 701,
+            "main": "Mist",
+            "description": "mist",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 9.87,
+        "feels_like": 6.86,
+        "temp_min": 9.87,
+        "temp_max": 10.4,
+        "pressure": 1003,
+        "humidity": 100,
+        "sea_level": 1003,
+        "grnd_level": 991
+    },
+    "visibility": 4000,
+    "wind": {
+        "speed": 6.69,
+        "deg": 130
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1741370422,
+    "sys": {
+        "type": 1,
+        "id": 1563,
+        "country": "IE",
+        "sunrise": 1741331174,
+        "sunset": 1741371829
+    },
+    "timezone": 0,
+    "id": 2965140,
+    "name": "Cork",
+    "cod": 200
+}
