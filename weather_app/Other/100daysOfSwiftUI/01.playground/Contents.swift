@@ -69,3 +69,4 @@ let int1 = 3
 
 var name2 = "Nichlas Cage"
 name2 = "John Travolta"
+ print("TEST")
