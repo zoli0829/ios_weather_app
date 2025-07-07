@@ -257,3 +257,7 @@ struct ContentView: View {
         }
     }
 }
+
+
+// Started a course on Coursera day 1
+
