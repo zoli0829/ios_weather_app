@@ -1,6 +1,7 @@
 # iOS Weather App
 
 ![Screenshot](images/weather_app_image.png)
+<img src="images/weather_app_image.png" alt="Weather App Screenshot" width="400"/>
 
 A simple iOS weather app built with **SwiftUI** and **CoreLocation**.  
 It fetches your current location and displays real-time weather data using the **OpenWeather API**.
