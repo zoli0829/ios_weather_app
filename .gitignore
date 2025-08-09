@@ -89,3 +89,5 @@ fastlane/test_output
 
 iOSInjectionProject/
 weather_app/Other/Config.swift
+weather_app/Config/Config.swift
+/weather_app/Config

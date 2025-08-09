@@ -76,7 +76,6 @@
 			isa = PBXGroup;
 			children = (
 				D0863DFC2D78C77C00DF4F63 /* weather_app */,
-				D0863E362D78C96000DF4F63 /* New Group */,
 				D0863E0D2D78C77E00DF4F63 /* weather_appTests */,
 				D0863E172D78C77F00DF4F63 /* weather_appUITests */,
 				D0863DFB2D78C77C00DF4F63 /* Products */,
@@ -91,13 +90,6 @@
 				D0863E142D78C77F00DF4F63 /* weather_appUITests.xctest */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		D0863E362D78C96000DF4F63 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
