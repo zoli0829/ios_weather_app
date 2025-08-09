@@ -1,6 +1,5 @@
 # iOS Weather App
 
-![Screenshot](images/weather_app_image.png)
 <img src="images/weather_app_image.png" alt="Weather App Screenshot" width="400"/>
 
 A simple iOS weather app built with **SwiftUI** and **CoreLocation**.  
